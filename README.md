@@ -1,64 +1,74 @@
-<!-- Profile README for MAHARAB HOSSAIN -->
 
-<h1 align="center">Hey there, I'm MAHARAB HOSSAIN 👋</h1>
-<h3 align="center">Data Analyst • Python & SQL Enthusiast • Future Digital Nomad</h3>
+<h1 align="center">Hey there, I'm Maharab Hossain 👋</h1>
+<h3 align="center">Data Analyst • Python & SQL Enthusiast • Future Digital Nomad</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maharab022&style=flat-square&color=blue" alt="Profile views" />
-  &nbsp;
-  <a href="https://www.linkedin.com/in/maharab-hossain-40a25b310" target="_blank">
-    <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  &nbsp;
-  <a href="mailto:mehrabem11@gmail.com">
-    <img src="https://img.shields.io/badge/-Email%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge">
-  </a>
+  <a href="mailto:maharabem11@gmail.com">📧 Email Me</a> |
+  <a href="https://www.linkedin.com/in/maharab-hossain-40a25b310">💼 LinkedIn</a> |
+  <a href="https://github.com/Maharab022">🐙 GitHub</a>
 </p>
 
 ---
 
-## 🧭 About Me
-🌍 Bangladeshi dream‑chaser on a mission to see the world from **Arctic glaciers to Antarctic ice**, laptop in hand.  
-💡 I turn raw data into clear stories that drive decisions and positive impact.  
-🕊️ Peace lover, lifelong learner, and firm believer that freelancing can fund lofty dreams (like a mini house‑on‑wheels 🚐).
+## 🌍 About Me
+
+🇧🇩 I'm a Bangladeshi dream-chaser with a passion for data, determined to see the world from Arctic glaciers to Antarctic ice — laptop in hand.  
+📊 I turn raw data into clear stories that drive decisions and make real impact.  
+🌱 Currently building my freelance career with real-world data projects.  
+🚐 Aspiring digital nomad, inspired by freedom, curiosity, and the open road.
 
 ---
 
-## ⚒️ Tech Stack
-| Language / Tool | Level |
-|-----------------|-------|
-| **Python** (`NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Plotly`) | 💪 |
-| **SQL** (MySQL) | 💪 |
-| **Excel & Power BI** (Data modeling & viz) | 💪 |
-| **Git & GitHub** | 🚀 *(learning)* |
+## 🛠 Tech Stack
+
+| Language / Tool     | Expertise Level |
+|---------------------|-----------------|
+| Python (NumPy, Pandas, Matplotlib, Seaborn, Plotly) | 💪 |
+| SQL (MySQL)         | 💪 |
+| Excel & Power BI (Data modeling & Dashboards) | 💪 |
 
 ---
 
-## 📚 Currently Learning
-- **Advanced Git & GitHub workflows** – for cleaner, collaborative projects  
-- **Streamlit & Dash** – to turn notebooks into interactive web apps  
-- **Automated ETL with Python** – prepping for real‑world data pipelines  
+## 📂 Featured Projects
+
+### 1️⃣ Excel Sales Dashboard
+- **Tools:** Microsoft Excel (Pivot Tables, Formulas, Slicers)
+- **Summary:** An interactive dashboard that visualizes sales performance. Clean interface and insightful metrics.
+- **Preview:**  
+  ![Excel Dashboard](https://github.com/Maharab022/Maharab022/blob/main/excel_dashboard.png?raw=true)
 
 ---
 
-## 🔭 Current Focus
-Building a rock‑solid portfolio and landing my **first freelance data‑analysis project**. Every commit here is a step toward that $5 000 goal! 💸
+### 2️⃣ Power BI Road Accident Dashboard
+- **Tools:** Power BI, DAX
+- **Summary:** A dynamic dashboard analyzing accident data by district and severity. Includes funnel charts and map visuals.
+- **Preview:**  
+  ![Power BI Dashboard](https://github.com/Maharab022/Maharab022/blob/main/powerbi_dashboard.png?raw=true)
 
 ---
 
-## ✨ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maharab022&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=maharab022&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maharab022&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
+### 3️⃣ Python Data Analysis with Jupyter
+- **Tools:** Python, Pandas, Seaborn, Matplotlib
+- **Summary:** A complete exploratory data analysis project using Python libraries, uncovering patterns and insights from a large dataset.
+- **Preview:**  
+  ![Python Chart 1](https://github.com/Maharab022/Maharab022/blob/main/python_chart1%20(1).png?raw=true)  
+  ![Python Chart 2](https://github.com/Maharab022/Maharab022/blob/main/python_chart2%20(1).png?raw=true)
 
 ---
 
-## 🚀 Get in Touch
-- 📧 **Email:** [mehrabem11@gmail.com](mailto:mehrabem11@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/maharab-hossain-40a25b310](https://www.linkedin.com/in/maharab-hossain-40a25b310)
+## 💼 Want to Work With Me?
 
-*Let’s collaborate, share ideas, and turn data into stunning insights!* 😊🔥
+If you’re looking for a data analyst who delivers clear insights and visual stories, let’s connect!  
+📧 **Email:** maharabem11@gmail.com  
+🔗 **LinkedIn:** [Maharab Hossain](https://www.linkedin.com/in/maharab-hossain-40a25b310)
+
+---
+
+## 🧠 Currently Learning
+- Advanced SQL queries
+- Real-world Power BI modeling
+- Freelancing strategy & client communication
+
+---
+
+⭐ *Thank you for visiting my profile! Let’s build something meaningful with data.*
