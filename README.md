@@ -1,5 +1,4 @@
-
-<h1 align="center">Hey there, I'm Maharab Hossain 👋</h1>
+<h1 align="center">Hey there, I'm <span style="color:#007ACC;">Maharab Hossain</span> 👋</h1>
 <h3 align="center">Data Analyst • Python & SQL Enthusiast • Future Digital Nomad</h3>
 
 <p align="center">
@@ -10,65 +9,69 @@
 
 ---
 
-## 🌍 About Me
+## 🌟 About Me
 
-🇧🇩 I'm a Bangladeshi dream-chaser with a passion for data, determined to see the world from Arctic glaciers to Antarctic ice — laptop in hand.  
-📊 I turn raw data into clear stories that drive decisions and make real impact.  
-🌱 Currently building my freelance career with real-world data projects.  
-🚐 Aspiring digital nomad, inspired by freedom, curiosity, and the open road.
-
----
-
-## 🛠 Tech Stack
-
-| Language / Tool     | Expertise Level |
-|---------------------|-----------------|
-| Python (NumPy, Pandas, Matplotlib, Seaborn, Plotly) | 💪 |
-| SQL (MySQL)         | 💪 |
-| Excel & Power BI (Data modeling & Dashboards) | 💪 |
+🚀 I'm Maharab, a passionate data analyst from Bangladesh, turning raw numbers into meaningful stories.  
+🌍 I dream of working and traveling the world as a digital nomad — laptop in hand, freedom in mind.  
+📊 I specialize in Python, Power BI, Excel, and SQL to solve real-world data problems and build smart dashboards.
 
 ---
 
-## 📂 Featured Projects
+## 💼 Tech Stack
 
-### 1️⃣ Excel Sales Dashboard
-- **Tools:** Microsoft Excel (Pivot Tables, Formulas, Slicers)
-- **Summary:** An interactive dashboard that visualizes sales performance. Clean interface and insightful metrics.
-- **Preview:**  
-  ![Excel Dashboard](https://github.com/Maharab022/Maharab022/blob/main/excel_dashboard.png?raw=true)
-
----
-
-### 2️⃣ Power BI Road Accident Dashboard
-- **Tools:** Power BI, DAX
-- **Summary:** A dynamic dashboard analyzing accident data by district and severity. Includes funnel charts and map visuals.
-- **Preview:**  
-  ![Power BI Dashboard](https://github.com/Maharab022/Maharab022/blob/main/powerbi_dashboard.png?raw=true)
+| Tool/Language        | Skills                         |
+|----------------------|--------------------------------|
+| **Python**           | Pandas, NumPy, Matplotlib, Seaborn, Plotly |
+| **SQL**              | MySQL                          |
+| **Excel**            | Dashboards, Pivot Tables       |
+| **Power BI**         | Data modeling, DAX, Visual Reports |
 
 ---
 
-### 3️⃣ Python Data Analysis with Jupyter
-- **Tools:** Python, Pandas, Seaborn, Matplotlib
-- **Summary:** A complete exploratory data analysis project using Python libraries, uncovering patterns and insights from a large dataset.
-- **Preview:**  
-  ![Python Chart 1](https://github.com/Maharab022/Maharab022/blob/main/python_chart1%20(1).png?raw=true)  
-  ![Python Chart 2](https://github.com/Maharab022/Maharab022/blob/main/python_chart2%20(1).png?raw=true)
+## 🧠 Projects Preview
+
+### 📊 Excel Sales Dashboard
+📌 **Tools:** Excel (Pivot Tables, Charts, Formulas)  
+📝 A high-level dashboard showing sales performance by day, category, and pizza type.  
+📷 **Preview:**  
+<img src="https://github.com/Maharab022/Maharab022/blob/main/excel_dashboard.png?raw=true" width="700"/>
 
 ---
 
-## 💼 Want to Work With Me?
-
-If you’re looking for a data analyst who delivers clear insights and visual stories, let’s connect!  
-📧 **Email:** maharabem11@gmail.com  
-🔗 **LinkedIn:** [Maharab Hossain](https://www.linkedin.com/in/maharab-hossain-40a25b310)
-
----
-
-## 🧠 Currently Learning
-- Advanced SQL queries
-- Real-world Power BI modeling
-- Freelancing strategy & client communication
+### 📈 Power BI - Road Accident Analysis
+📌 **Tools:** Power BI, DAX  
+📝 Interactive visuals analyzing road accident trends, casualties by vehicle type, light condition & more.  
+📷 **Preview:**  
+<img src="https://github.com/Maharab022/Maharab022/blob/main/powerbi_dashboard.png?raw=true" width="700"/>
 
 ---
 
-⭐ *Thank you for visiting my profile! Let’s build something meaningful with data.*
+### 🐍 Python Data Analysis (Jupyter)
+📌 **Tools:** Python, Pandas, Matplotlib, Seaborn  
+📝 Exploratory Data Analysis on retail dataset showing trends, charts & category breakdowns.  
+📷 **Previews:**  
+<img src="https://github.com/Maharab022/Maharab022/blob/main/python_chart1%20(1).png?raw=true" width="400"/>  
+<img src="https://github.com/Maharab022/Maharab022/blob/main/python_chart2%20(1).png?raw=true" width="400"/>
+
+---
+
+## 📫 Contact Me
+
+If you're looking for a data analyst who can deliver clarity from chaos — let's connect!
+
+- 📧 Email: maharabem11@gmail.com  
+- 🔗 LinkedIn: [Maharab Hossain](https://www.linkedin.com/in/maharab-hossain-40a25b310)  
+- 🌍 Location: Bangladesh | Available for remote/freelance
+
+---
+
+### 🌱 Currently Learning
+- Advanced SQL  
+- Power BI Modeling  
+- Real-world freelance strategies
+
+---
+
+⭐ *Thanks for visiting! Let’s build something powerful with data.*
+
+
