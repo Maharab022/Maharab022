@@ -63,4 +63,14 @@ I'm passionate about transforming raw data into meaningful insights. Currently b
 
 ---
 
+## 📜 Professional Certifications
+
+| **Certification** | **Provider** | **Skills Covered** |
+|-------------------|--------------|-------------------|
+| ![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white) | **Google Professional Data Analytics Certificate** <br> *Coursera* | Data Analysis, Data Visualization, R Programming, SQL, Tableau, Data Cleaning |
+| ![IBM](https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white) | **Databases and SQL for Data Science with Python** <br> *Coursera* | SQL, Python, Database Management, Data Science, PostgreSQL, MySQL |
+
+*All certificates are verifiable through Coursera's credential verification system.*
+
+
 ⭐ **Feel free to explore my repositories and don't forget to star the ones you find interesting!**
