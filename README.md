@@ -1,3 +1,5 @@
+![Header](./header.png)
+
 # Hi there, I'm Maharab Hossain 👋
 
 ## 🔍 Passionate Data Analyst
