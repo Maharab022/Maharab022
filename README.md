@@ -1,6 +1,6 @@
 ![Header](header.png)
 
-# Hi there, I'm Maharab Hossain 👋
+# <h1 align="center">Hi there, I'm Maharab Hossain 👋</h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Passionate+Data+Analyst;Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Creating+Stories+with+Data;Building+My+Portfolio&font=Fira%20Code&center=true&width=1000&height=50&color=667eea&vCenter=true&pause=1000&size=22)
 
