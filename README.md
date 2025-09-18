@@ -40,7 +40,7 @@ I am a data storyteller who believes that every dataset holds a unique narrative
 
 ### Documentation & Presentation
 | ![MS Word](https://img.icons8.com/color/48/ms-word.png) | ![PowerPoint](https://img.icons8.com/color/48/microsoft-powerpoint-2019.png) | 
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|
 | **MS Word** | **PowerPoint** |
 
 ---
