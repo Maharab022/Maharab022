@@ -1,12 +1,18 @@
 ![Header](header.png)
 
-# <h1 align="center">Hi there, I'm Maharab Hossain 👋</h1>
+<div align="center">
+
+# Hi there, I'm Maharab Hossain 👋
+
+### 🎓 BSc in Mechanical Engineering | RUET, BANGLADESH
+
+</div>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Passionate+Data+Analyst;Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Creating+Stories+with+Data;Building+My+Portfolio&font=Fira%20Code&center=true&width=1000&height=50&color=667eea&vCenter=true&pause=1000&size=22)
 
 ## 🔍 Passionate Data Analyst
 
-I'm passionate about transforming raw data into meaningful insights. Currently building my portfolio with projects in **Excel, SQL, Python, and Power BI**. I love solving problems, creating dashboards, and telling stories with data.
+I am a data storyteller who believes that every dataset holds a unique narrative waiting to be told. With a strong foundation in Python, SQL, Excel, and Power BI, I architect data-driven journeys—from raw data exploration to insightful, interactive dashboards. My goal is to bridge the gap between complex data and clear, actionable strategies, enabling teams to see their work through a new lens.
 
 ---
 
@@ -23,9 +29,9 @@ I'm passionate about transforming raw data into meaningful insights. Currently b
 ## 🛠️ Tools & Technologies
 
 ### Core Analytics Tools
-| ![Power BI](https://img.icons8.com/color/48/power-bi.png) | ![Python](https://img.icons8.com/color/48/python.png) | ![SQL](https://img.icons8.com/color/48/sql.png) | ![Excel](https://img.icons8.com/color/48/microsoft-excel-2019.png) | ![Looker Studio](https://img.icons8.com/color/48/google-data-studio.png) |
+| ![Power BI](https://img.icons8.com/color/48/power-bi.png) | ![Python](https://img.icons8.com/color/48/python.png) | ![SQL](https://img.icons8.com/color/48/sql.png) | ![Excel](https://img.icons8.com/color/48/microsoft-excel-2019.png) | ![Tableau](https://img.icons8.com/color/48/tableau-software.png) |
 |:---:|:---:|:---:|:---:|:---:|
-| **Power BI** | **Python** | **SQL** | **Excel** | **Looker Studio** |
+| **Power BI** | **Python** | **SQL** | **Excel** | **Tableau** |
 
 ### Development Environment
 | ![VS Code](https://img.icons8.com/fluency/48/visual-studio-code-2019.png) | ![Jupyter](https://img.icons8.com/fluency/48/jupyter.png) |
