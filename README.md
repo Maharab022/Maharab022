@@ -2,6 +2,8 @@
 
 # Hi there, I'm Maharab Hossain 👋
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Passionate+Data+Analyst;Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Creating+Stories+with+Data;Building+My+Portfolio&font=Fira%20Code&center=true&width=1000&height=50&color=667eea&vCenter=true&pause=1000&size=22)
+
 ## 🔍 Passionate Data Analyst
 
 I'm passionate about transforming raw data into meaningful insights. Currently building my portfolio with projects in **Excel, SQL, Python, and Power BI**. I love solving problems, creating dashboards, and telling stories with data.
