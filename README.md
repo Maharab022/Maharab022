@@ -65,10 +65,25 @@ I'm passionate about transforming raw data into meaningful insights. Currently b
 
 ## 📜 Professional Certifications
 
-| **Certification** | **Provider** | **Skills Covered** |
-|-------------------|--------------|-------------------|
-| ![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white) | **Google Professional Data Analytics Certificate** <br> *Coursera* | Data Analysis, Data Visualization, R Programming, SQL, Tableau, Data Cleaning |
-| ![IBM](https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white) | **Databases and SQL for Data Science with Python** <br> *Coursera* | SQL, Python, Database Management, Data Science, PostgreSQL, MySQL |
+<table>
+<tr>
+<td align="center" width="300">
+<img src="https://img.icons8.com/color/48/google-logo.png" alt="Google" width="48"><br>
+<strong>Google Professional Data Analytics Certificate</strong><br>
+<em>Coursera</em><br><br>
+<a href="#"><img src="https://img.shields.io/badge/VERIFY-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Verify"></a>
+</td>
+<td align="center" width="300">
+<img src="https://img.icons8.com/color/48/ibm.png" alt="IBM" width="48"><br>
+<strong>Databases and SQL for Data Science with Python</strong><br>
+<em>Coursera</em><br><br>
+<a href="#"><img src="https://img.shields.io/badge/VERIFY-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a>
+</td>
+<td align="center" width="300">
+<!-- Space for future certification -->
+</td>
+</tr>
+</table>
 
 *All certificates are verifiable through Coursera's credential verification system.*
 
