@@ -39,9 +39,9 @@ I am a data storyteller who believes that every dataset holds a unique narrative
 | **VS Code** | **Jupyter Notebook** |
 
 ### Documentation & Presentation
-| ![MS Word](https://img.icons8.com/color/48/ms-word.png) | ![PowerPoint](https://img.icons8.com/color/48/microsoft-powerpoint-2019.png) | ![LaTeX](https://img.icons8.com/color/48/latex.png) | ![Canva](https://img.icons8.com/color/48/canva.png) |
+| ![MS Word](https://img.icons8.com/color/48/ms-word.png) | ![PowerPoint](https://img.icons8.com/color/48/microsoft-powerpoint-2019.png) | 
 |:---:|:---:|:---:|:---:|
-| **MS Word** | **PowerPoint** | **LaTeX** | **Canva** |
+| **MS Word** | **PowerPoint** |
 
 ---
 
