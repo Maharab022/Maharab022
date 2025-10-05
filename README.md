@@ -34,9 +34,9 @@ I am a data storyteller who believes that every dataset holds a unique narrative
 | **Power BI** | **Python** | **SQL** | **Excel** | **Tableau** |
 
 ### Development Environment
-| ![VS Code](https://img.icons8.com/fluency/48/visual-studio-code-2019.png) | ![Jupyter](https://img.icons8.com/fluency/48/jupyter.png) |
-|:---:|:---:|
-| **VS Code** | **Jupyter Notebook** |
+| ![VS Code](https://img.icons8.com/fluency/48/visual-studio-code-2019.png) | ![Jupyter](https://img.icons8.com/fluency/48/jupyter.png) | ![DBeaver](https://img.icons8.com/fluency/48/dbeaver.png) |
+|:---:|:---:|:---:|
+| **VS Code** | **Jupyter Notebook** | **DBeaver** |
 
 ### Documentation & Presentation
 | ![MS Word](https://img.icons8.com/color/48/ms-word.png) | ![PowerPoint](https://img.icons8.com/color/48/microsoft-powerpoint-2019.png) | 
